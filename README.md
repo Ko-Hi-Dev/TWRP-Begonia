@@ -12,7 +12,7 @@ Works:
 - Flashing (opengapps, roms, images and so on)
 - Backup/Restore (Needs more testing)
 - USB OTG
-- [strike]anroid Q Support (needs to build with android 10 kernel)
+- [strike]anroid Q Support[/strike] (needs to build with android 10 kernel)
 - OTA support for Begoniain (01032020)
 
 TO-DO:
