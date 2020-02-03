@@ -12,7 +12,6 @@ Works:
 - Flashing (opengapps, roms, images and so on)
 - Backup/Restore (Needs more testing)
 - USB OTG
-- [strike]anroid Q Support[/strike] (needs to build with android 10 kernel)
 - OTA support for Begoniain (01032020)
 
 TO-DO:
@@ -26,6 +25,8 @@ MIUI 10 Pie kernel (Image.gz-10)
 MIUI 11 Pie Kernel Included (Image.gz)
 Android 10 kernel included (image.gz-Q)
 ## Compile
+
+Select the kernel you want to use for your recovery (see above)
 
 First checkout minimal twrp with omnirom tree:
 
