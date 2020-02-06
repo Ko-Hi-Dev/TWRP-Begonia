@@ -1,5 +1,9 @@
 TWRP Device Tree for begonia
 
+Please note this setup has been tested mostly
+On Android 10 if you fail to boot your build look at
+Fancypants git :)
+
 ## Features
 
 Works:
